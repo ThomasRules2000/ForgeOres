@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "ForgeOres",
+        "name": "Forge Ores",
+        "description": "Ore Generation for common modded ores to remove duplicates (disable common ore worldgen and just use this) \nOres Added: \n•  Ore1 \n•  Ore2 \n•  Ore3",
+        "version": "1.0",
+        "credits": "Pahimar, for his awesome 'Let's Mod' Series",
+        "logoFile": "",
+        "mcversion": "1.7.10",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [ "The Stacinator" ],
+        "parent": "",
+        "screenshots": [],
+        "dependencies": [
+            "MinecraftForge"
+        ]
+    }
+]
